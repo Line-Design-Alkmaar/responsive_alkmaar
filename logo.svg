@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="Monumentenschildje_blauw_wit.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="270.5px" height="397px"
+	 viewBox="0 0 270.5 397" enable-background="new 0 0 270.5 397" xml:space="preserve">
+<filter  id="filter3622" color-interpolation-filters="sRGB">
+	<feGaussianBlur  id="feGaussianBlur3624" stdDeviation="5.34"></feGaussianBlur>
+</filter>
+<sodipodi:namedview  id="base" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" showgrid="false" inkscape:zoom="1.1058821" inkscape:cx="240.54466" inkscape:cy="170.43765" showguides="true" inkscape:window-height="751" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-width="1235" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:current-layer="svg2" inkscape:guide-bbox="true">
+	</sodipodi:namedview>
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective4878" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 157.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="275 : 157.5 : 1" inkscape:persp3d-origin="137.5 : 105 : 1">
+		</inkscape:perspective>
+</defs>
+<g id="g4458" transform="translate(3007.8326,118.07274)">
+</g>
+<g id="g4458-4" transform="translate(2141.8157,96.05523)">
+</g>
+<g filter="url(#filter3622)">
+	<path d="M13.125,39.921v210.222l118.632-4.508l131.701-1.368V39.921l-127.063-8.673L13.125,39.921z"/>
+</g>
+<g>
+	<g filter="url(#filter3622)">
+		<path opacity="0.8632" d="M132.42,303.672c-7.512-3.146-125.683-38.409-125.792-64.017l254.716,0.358
+			C261.479,271.559,138.178,300.164,132.42,303.672z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#871419" d="M133,299.667c-23.523-9.264-126.247-28.625-126.247-64l254.747,1.334
+				C261.5,271.639,138.75,296.442,133,299.667z"/>
+		</g>
+		<g>
+			<g sodipodi:nodetypes="ccccccc">
+				<polygon fill="#871419" points="6.753,36.334 6.753,235.667 133,299.667 261.5,237.001 261.5,36.334 14.5,36.334 				"/>
+			</g>
+			<g>
+				<path fill="#871419" d="M261.5,36.334H6.753C133,19,199.42,28.63,261.5,36.334z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<path fill="#EAE5D1" d="M200.901,157.5c-2.464-5.041-12.481-18.208-12.481-39.166c0-9.212,3.334-14.082,9.08-17.834
+	c5.5-2,6.857-16.506,6.857-27.495c0-2.948-14.188-8.004-34.271-8.004c0,7.37,0,13.333,0,13.333s-7.23,0.411-15.337,0.411
+	c0-8.647,0.329-9.708,0.25-15.449c-20.839,0.191-28.5-0.796-49,0.454c0,5.527,0,16,0,16l0,0c0,0-7.162-0.25-16.006-0.25
+	c0-7.37-0.574-14.499-0.574-14.499c-7.388,1.249-32.667,5.814-32.667,9.499V94c0,6.633,10.679,17.169,11.967,17.259
+	c10.33,24.832-7.672,50.155-11.967,56.742l0,0c-1.754,2.729-6,28.178-6,63.001c8.8,3.717,26.496,5.034,54.667,8.666
+	c0-24.689,0-44.667,0-44.667C107.26,188.415,117.133,177,133,177c15.824,0,26.686,15.021,27.75,21.5c0,22.756-0.5,41.168-0.5,41.168
+	c28.496-4.001,39.253-5.489,53.837-13.334c0-38.046-7.587-58.333-13.837-70.084"/>
+<rect x="116" y="109.5" fill="#97111A" width="22.75" height="33.5"/>
+<path fill="#871419" d="M181.5,212.5h15.75c0-17.25-6-31-9.5-40.5L172,172.75C173.947,173.944,181.5,197.5,181.5,212.5z"/>
+<path fill="#941C1B" d="M75.25,173.75c-1.749,1.347-7.5,21.25-7.5,39.25h15.5c-1.5-18.75,4.625-39.5,7.25-39.5L75.25,173.75"/>
+<rect x="50.754" y="31.861" fill="#871419" width="173.864" height="9.139"/>
+</svg>
